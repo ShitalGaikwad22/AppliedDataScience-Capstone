@@ -12,3 +12,7 @@ With the given set of objectives, the battle of neighborhoods has been implement
     To learn how to use the Foursquare API and clustering to segment and cluster the neighborhoods in New York City.
     To learn how to use the Beautifulsoup Python package to scrape websites and parse HTML code.
     To apply the skills acquired so far in this course to segment and cluster neighborhoods in the city of Toronto.
+
+
+![Captur23e](https://user-images.githubusercontent.com/58787272/125117146-62002a80-e10b-11eb-8284-d3c7dd7c97f9.PNG)
+![Capture](https://user-images.githubusercontent.com/58787272/125117160-67f60b80-e10b-11eb-8452-7b5700462e99.PNG)
